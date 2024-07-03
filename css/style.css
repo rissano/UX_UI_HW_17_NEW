@@ -149,7 +149,7 @@ a:focus, .button:focus, .btn:focus {
     outline-offset: 2px;
 }
 
-/* Media Queries for Mobile Responsiveness */
+
 @media (max-width: 768px) {
     .heroImg {
         flex-direction: column;
